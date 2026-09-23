@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Amina Yasmine Benazzouz
 
-<!--
-**Yasminabn/Yasminabn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Microbiology Graduate & Bioinformatics Specialist
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I combine a strong foundation in Microbiology with skills in Python Data Analysis and Computational Biology. My focus is on leveraging programming to analyze biological datasets and sequence data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Key Expertise & Focus Areas
+- Biological Sciences: Microbiology, Clinical Pathology, Midwifery & Healthcare Procedures.
+- Data & Programming: Python (NumPy, Data Processing), Biological Sequence Analysis.
+- Tools & Environments: VS Code, Git/GitHub, Jupyter Notebooks.
+- Languages: English, German, Arabic, French.
+
+---
+
+### Featured Repositories
+- [Project_1_NumPy](https://github.com/Yasminabn/Project1numpy): Foundations of array manipulations for scientific and biological data.
+- [Project2](https://github.com/Yasminabn/Project2): Biological sequence analysis and quality metrics extraction using Python.
+
+---
+
+### Connect with Me
+- Portfolio & Code: [GitHub Profile](https://github.com/Yasminabn)
+
+---
+Driven by research, continuous learning, and bridging biological discoveries with computational analysis.
